@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>EduSetupPlus — Okul Yönetim Yazılımı Ürün Kataloğu</title>
+    <link>https://edusetupplus.com/magaza</link>
+    <description>EduSetupPlus yıllık lisans paketleri, öğrenci ve personel kontenjan paketleri, lisans süre uzatmaları ve kurulum/eğitim hizmetleri. Tüm fiyatlar Türk Lirası ve KDV dahildir.</description>
+    <language>tr-TR</language>
+    <lastBuildDate>Mon, 31 Aug 2026 10:30:56 +0000</lastBuildDate>
+    <item>
+      <g:id>lisans-baslangic</g:id>
+      <title>Başlangıç Yıllık Lisans</title>
+      <description>100 öğrenciye kadar kurumlar için tüm modüllere tam erişim. Paketler arasındaki tek fark öğrenci kontenjanıdır. Kontenjan: 100 öğrenci. 25 personel hesabı. Lisans süresi: 365 gün. Kapsam: 100 öğrenci kontenjanı; 25 personel hesabı; 12 ay lisans süresi; Tüm modüller açık: analiz, ders programı, yoklama, muhasebe; Rehberlik, erken uyarı ve online ders; Kurumsal yedekleme ve geri yükleme.</description>
+      <link>https://edusetupplus.com/magaza#lisans-baslangic</link>
+      <g:image_link>https://edusetupplus.com/assets/edusetupplus-logo.png</g:image_link>
+      <g:price>30000.00 TRY</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>EduSetupPlus</g:brand>
+      <g:mpn>lisans-baslangic</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Yıllık Lisans</g:product_type>
+      <g:google_product_category>313</g:google_product_category>
+      <g:custom_label_0>Yıllık Lisans</g:custom_label_0>
+      <g:custom_label_1>Lisans</g:custom_label_1>
+      <g:custom_label_2>En fazla 1 adet</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>lisans-standart</g:id>
+      <title>Standart Yıllık Lisans</title>
+      <description>300 öğrenciye kadar okul ve kurslar için en çok tercih edilen paket. Modül kapsamı Başlangıç ile aynıdır; yalnızca öğrenci kontenjanı yükselir. Kontenjan: 300 öğrenci. 60 personel hesabı. Lisans süresi: 365 gün. Kapsam: 300 öğrenci kontenjanı; 60 personel hesabı; 12 ay lisans süresi; Tüm modüller açık: analiz, ders programı, yoklama, muhasebe; Rehberlik, erken uyarı ve online ders; Kurumsal yedekleme ve geri yükleme.</description>
+      <link>https://edusetupplus.com/magaza#lisans-standart</link>
+      <g:image_link>https://edusetupplus.com/assets/edusetupplus-logo.png</g:image_link>
+      <g:price>50000.00 TRY</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>EduSetupPlus</g:brand>
+      <g:mpn>lisans-standart</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Yıllık Lisans</g:product_type>
+      <g:google_product_category>313</g:google_product_category>
+      <g:custom_label_0>Yıllık Lisans</g:custom_label_0>
+      <g:custom_label_1>Lisans</g:custom_label_1>
+      <g:custom_label_2>En fazla 1 adet</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>lisans-pro</g:id>
+      <title>Pro Yıllık Lisans</title>
+      <description>1.000 öğrenciye kadar çok şubeli kurumlar için. Modül kapsamı diğer paketlerle aynıdır; ek olarak öncelikli destek sunulur. Kontenjan: 1.000 öğrenci. 200 personel hesabı. Lisans süresi: 365 gün. Kapsam: 1.000 öğrenci kontenjanı; 200 personel hesabı; 12 ay lisans süresi; Tüm modüller açık: analiz, ders programı, yoklama, muhasebe; Rehberlik, erken uyarı ve online ders; Kurumsal yedekleme ve geri yükleme; Öncelikli destek.</description>
+      <link>https://edusetupplus.com/magaza#lisans-pro</link>
+      <g:image_link>https://edusetupplus.com/assets/edusetupplus-logo.png</g:image_link>
+      <g:price>90000.00 TRY</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>EduSetupPlus</g:brand>
+      <g:mpn>lisans-pro</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Yıllık Lisans</g:product_type>
+      <g:google_product_category>313</g:google_product_category>
+      <g:custom_label_0>Yıllık Lisans</g:custom_label_0>
+      <g:custom_label_1>Lisans</g:custom_label_1>
+      <g:custom_label_2>En fazla 1 adet</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>ek-ogrenci-100</g:id>
+      <title>100 Öğrenci Ek Kontenjanı</title>
+      <description>Lisans kontenjanınıza 100 öğrenci ve 10 personel hesabı ekler. Sağladığı hak: +100 öğrenci kontenjanı, +10 personel hesabı.</description>
+      <link>https://edusetupplus.com/magaza#ek-ogrenci-100</link>
+      <g:image_link>https://edusetupplus.com/assets/edusetupplus-logo.png</g:image_link>
+      <g:price>15000.00 TRY</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>EduSetupPlus</g:brand>
+      <g:mpn>ek-ogrenci-100</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Kontenjan Paketi</g:product_type>
+      <g:google_product_category>313</g:google_product_category>
+      <g:custom_label_0>Kontenjan Paketi</g:custom_label_0>
+      <g:custom_label_1>Ek ürün</g:custom_label_1>
+      <g:custom_label_2>En fazla 20 adet</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>ek-personel-25</g:id>
+      <title>25 Personel Hesabı Paketi</title>
+      <description>Öğretmen, rehber ve yönetici için 25 ek kullanıcı hesabı açar. Sağladığı hak: +25 personel hesabı.</description>
+      <link>https://edusetupplus.com/magaza#ek-personel-25</link>
+      <g:image_link>https://edusetupplus.com/assets/edusetupplus-logo.png</g:image_link>
+      <g:price>10000.00 TRY</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>EduSetupPlus</g:brand>
+      <g:mpn>ek-personel-25</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Kontenjan Paketi</g:product_type>
+      <g:google_product_category>313</g:google_product_category>
+      <g:custom_label_0>Kontenjan Paketi</g:custom_label_0>
+      <g:custom_label_1>Ek ürün</g:custom_label_1>
+      <g:custom_label_2>En fazla 20 adet</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>hizmet-kurulum</g:id>
+      <title>Kurulum ve Veri Aktarım Hizmeti</title>
+      <description>Mevcut öğrenci, sınıf ve muhasebe verilerinizin uzman ekip tarafından portala aktarılması ve kurum ayarlarının yapılması.</description>
+      <link>https://edusetupplus.com/magaza#hizmet-kurulum</link>
+      <g:image_link>https://edusetupplus.com/assets/edusetupplus-logo.png</g:image_link>
+      <g:price>10000.00 TRY</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>EduSetupPlus</g:brand>
+      <g:mpn>hizmet-kurulum</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Hizmet</g:product_type>
+      <g:google_product_category>313</g:google_product_category>
+      <g:custom_label_0>Hizmet</g:custom_label_0>
+      <g:custom_label_1>Ek ürün</g:custom_label_1>
+      <g:custom_label_2>En fazla 1 adet</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>hizmet-egitim</g:id>
+      <title>Online Personel Eğitimi (4 saat)</title>
+      <description>Personelinize canlı online eğitim ve kayıt altına alınmış ders videosu.</description>
+      <link>https://edusetupplus.com/magaza#hizmet-egitim</link>
+      <g:image_link>https://edusetupplus.com/assets/edusetupplus-logo.png</g:image_link>
+      <g:price>10000.00 TRY</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>EduSetupPlus</g:brand>
+      <g:mpn>hizmet-egitim</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Hizmet</g:product_type>
+      <g:google_product_category>313</g:google_product_category>
+      <g:custom_label_0>Hizmet</g:custom_label_0>
+      <g:custom_label_1>Ek ürün</g:custom_label_1>
+      <g:custom_label_2>En fazla 10 adet</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>uzatma-1ay</g:id>
+      <title>1 Ay Lisans Uzatma</title>
+      <description>Lisans süresini satın alma anından itibaren 1 ay daha uzatır. Sağladığı hak: +30 gün lisans süresi.</description>
+      <link>https://edusetupplus.com/magaza#uzatma-1ay</link>
+      <g:image_link>https://edusetupplus.com/assets/edusetupplus-logo.png</g:image_link>
+      <g:price>8000.00 TRY</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:brand>EduSetupPlus</g:brand>
+      <g:mpn>uzatma-1ay</g:mpn>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Süre Paketi</g:product_type>
+      <g:google_product_category>313</g:google_product_category>
+      <g:custom_label_0>Süre Paketi</g:custom_label_0>
+      <g:custom_label_1>Ek ürün</g:custom_label_1>
+      <g:custom_label_2>En fazla 12 adet</g:custom_label_2>
+    </item>
+  </channel>
+</rss>
